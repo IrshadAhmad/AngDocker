@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-docker"
+    }
+  },
+  "defaultProject": "ang-docker",
+  "cli": {
+    "analytics": false
+  }
 }
